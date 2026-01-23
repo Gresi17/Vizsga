@@ -1,0 +1,21 @@
+Bandák:
+Rock:
+AngyalBourbon	//Rock
+Abracadabra	//Pop Rock
+Help	//Rock
+Paradox	//Rock
+Metál:
+Madnext //Modern Metál
+Atrox Trauma	//Trash Metál
+DAY BY DAY	//Metál
+Komodo	//Metál
+Alter:
+Máklikör	//Alter
+Kisbetűs ünnepnapok	//Alter
+Hűvös	//Alter
+Girlhood	//Alter
+Punk:
+Ordenáré SzocYeti	//Punk
+Eresz alá szorult uborka	//Punk
+Söralátét	//Punk
+Aktuális	//Skate Punk
