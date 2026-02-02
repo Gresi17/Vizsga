@@ -15,6 +15,11 @@ Albumok:
 Köszönöm, hogy... : Köszönöm, hogy... 
 Emlék: Emlék (bűnös voltam)
 
+Deres: 
+Texasbáhony: Szerelmes, Mézeskalács, Cefre
+Pusztán születtem: Pusztán születtem
+Vendég: Erdő szélén, Csal,Vendég
+
 Madnext: 
 Albumok:
 Csillagtalan
@@ -45,6 +50,37 @@ Kisbetűs ünnepnapok:
 Az izéből az izé: Fej, Nyállámálló, csupán
 Édenpark: Miért ne, Surranó, Sárgát látsz
 Legeslegkisebb királyfi: Legeslegkisebb királyfi
+
+Hűvös:
+Imágó: Tiszavirág komplexus, Üdv a klubban, 423
+Mit keresek itt??: Veszett fejsze nyele, Pajtás, Magamat szeretem már
+Élek és virulok: élek és virulok
+
+Girlhood: 
+Csendháborítás: Majdnem nem haragszom rád, Közöny, Katasztrófaturista
+Kapunyitási pánik: Kapunyitási Pánik
+Esetek és minták: Négyhat, Esküszöm, Csontváz
+
+Ordenáré Szocyeti:
+Állatfarm: Fut a maci, Botosánka, Hódi Szatva
+Tüncizik Wombathely: Róka rák end Ról, Azonistúl(Ricsárdgír feldolgozás),Múltidéző
+Közönségtelen EP III. : Géza, N.P.C, Érintőképernyő
+
+Eresz alá szorult uborka: 
+Vakáció PANKráció: Kiskutya, Gyerünk rajta, Ne gondolkodj
+
+Söralátét:
+Ember?: Nyomott a hangulat, Barátok, Meg nem értett gondolatok
+Lázas elmék: Nézd az élet szebb oldalát, Lázas elmék, Találj ki valamit ez ellen
+Dicsőséges nagyurak: Dicsőséges nagyurak
+
+Aktuális: 
+Tudom jól: tudom jól
+Legó: legó
+Amikor erről szól az élet: Amikor erről szól az élet
+
+ 
+
 
 
 
