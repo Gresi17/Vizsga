@@ -41,13 +41,6 @@ button:hover {
   background-color: rgb(47, 29, 56);
 }
 
-#buttons {
-  width: 700px;
-  margin-top: 80px;
-  margin-left: 20px;
-  margin-right: 20px;
-}
-
 .logo {
   position: fixed;
   top: 10px;
@@ -69,6 +62,26 @@ button:hover {
 
 .szoveg {
   color: white;
-  font-size: 25px;
+  font-size: 30px;
   text-align: justify;
+  margin-left: 900px;
+  margin-right: 20px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  gap: 10px;
+}
+
+button {
+  width: 250px;
+  height: 75px;
 }
